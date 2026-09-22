@@ -9,4 +9,4 @@ assignees: ''
 
 ## This is a new feature request template
 
-### Please describe the issue in detaill
+### Please describe the issue in detail
